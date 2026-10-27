@@ -20,14 +20,14 @@ Vesperine 起源于一次关于「手机说话、电脑执行、单 Docker、纯
 
 ## 两个项目
 
-### 助手
+### 助手 · [AstroNexus](https://github.com/Stellinora/AstroNexus)
 
 - 保留：记忆、经验库
 - 删除：拟人化
 - Docker 控制：多端输入 / 指定端输出
 - 终端只是端点之一，不是唯一主控
 
-### 生命
+### 生命 · 本仓库
 
 - 保留：拟人化、本真层、连续性、角色外衣
 - 去掉：终端主控
@@ -37,12 +37,12 @@ Vesperine 起源于一次关于「手机说话、电脑执行、单 Docker、纯
 
 ## 文档
 
-两个项目的文档各自私有，分别放在：
+两个项目的文档各自私有：
 
-- [助手项目文档](docs/assistant/README.md)
-- [生命项目文档](docs/life/README.md)
+- 助手项目：[AstroNexus](https://github.com/Stellinora/AstroNexus)
+- 生命项目：[docs/life](docs/life/README.md)
 
-每个项目都包含一份完整文档集；共享文档已复制为各自副本，修改时需分别同步。各项目内部的文档索引、共享边界与未决问题，以各自目录为准。
+共享文档已复制为各自副本；修改时需在两个仓库分别同步。各项目内部的文档索引、共享边界与未决问题，以各自仓库为准。
 
 ---
 

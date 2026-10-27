@@ -21,4 +21,4 @@
 
 ## 跨项目
 
-- [助手项目](../assistant/README.md)
+- [助手项目](https://github.com/Stellinora/AstroNexus)

@@ -50,7 +50,7 @@ CREATE TABLE episode (
 
 > 注意 `owner` 指向的是**基座（人）**，不是角色卡。Episode 归属主体；`scope` 只表示它产生于哪种角色语境。
 >
-> 极简路线下，编程场景的 Episode 语义改为「一次任务」：`services` → `repo/branch`，`root_cause` → `decision_reason`；只记元记忆，不记工具调用流。见 [12 §7.5](../assistant/12-执行体与租约.md)。
+> 极简路线下，编程场景的 Episode 语义改为「一次任务」：`services` → `repo/branch`，`root_cause` → `decision_reason`；只记元记忆，不记工具调用流。见 [12 §7.5](https://github.com/Stellinora/AstroNexus/blob/main/12-执行体与租约.md)。
 
 ---
 
