@@ -22,10 +22,11 @@ Vesperine 起源于一次关于「手机说话、电脑执行、单 Docker、纯
 
 ### 助手 · [AstroNexus](https://github.com/Stellinora/AstroNexus)
 
+- Docker 云端唯一真相源 + 记忆工厂
+- DSH 云端编排 + Headless 记忆整理
+- 本地 Agent 通过薄插件接入
 - 保留：记忆、经验库
 - 删除：拟人化
-- Docker 控制：多端输入 / 指定端输出
-- 终端只是端点之一，不是唯一主控
 
 ### 生命 · 本仓库
 
